@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepikag1999&label=Profile%20views&color=0e75b6&style=flat" alt="deepikag1999" /> </p>
 
-- 🔭 I’m currently working on [Tanet ERP , College reviewer](https://github.com/deepikaG1999/Tanet-erp)
-
 - 🌱 I’m currently learning **Data Science , Arduino and Nodemcu**
-
-- 🤝 I’m looking for help with [College reviewer](https://github.com/deepikaG1999/CollegeReviewer)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RQxk2PJXFGjnEv3ErOOoXoK-F8pagVpp/view?usp=sharing](https://drive.google.com/file/d/1RQxk2PJXFGjnEv3ErOOoXoK-F8pagVpp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
