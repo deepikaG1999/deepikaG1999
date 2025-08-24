@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepikag1999&label=Profile%20views&color=0e75b6&style=flat" alt="deepikag1999" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-- 🌱 I’m exploring advanced topics in Data Science and Machine Learning
-- 💡 Passionate about turning data into insights through SQL, Python, and Power BI
-- 🚀 Building projects in data analysis, visualization, and predictive modeling
+- 🌱 I’m exploring advanced topics in **Data Science** and **Machine Learning**
+- 💡 Passionate about turning data into insights through **SQL**, **Python**, and **Power BI**
+- 🚀 Building projects in **data analysis**, **visualization**, and **predictive modeling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
